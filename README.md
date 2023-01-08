@@ -7,9 +7,7 @@
 - 🇰🇷 Learning Korean and interested in Korean culture.
 - 🐱 Love cats.
 
-#### Publications
-- Coming soon...
-
+My portfolio: https://www.conan1024hao.com
 
 <div align=center>
 
