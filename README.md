@@ -4,7 +4,6 @@
 #### Introduction
 - 🇨🇳 Originally from Hangzhou, China.
 - 🇯🇵 Researching NLP in Kawahara lab, Waseda University, Japan.
-- 🇰🇷 Learning Korean and interested in Korean culture.
 - 🐱 Love cats.
 
 My portfolio: https://www.conan1024hao.com
