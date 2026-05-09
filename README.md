@@ -3,8 +3,8 @@
 
 #### Introduction
 - 🇨🇳 Originally from Hangzhou, China.
-- 🇯🇵 Researching NLP in Kawahara lab, Waseda University, Japan.
-- 🐱 Love cats.
+- 🇯🇵 Researching NLP and multimodal LLM in Kawahara lab, Waseda University, Japan.
+- 🐱 Love cats and dogs 🐶.
 
 My portfolio: https://www.conan1024hao.com
 
